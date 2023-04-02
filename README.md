@@ -1,2 +1,9 @@
 # codecomrade
-Git helpers with CODEOWNERS context.
+
+## Development
+
+### Install
+
+```shell
+python setup.py install --user
+```
