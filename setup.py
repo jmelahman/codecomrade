@@ -9,7 +9,7 @@ from mypyc.build import mypycify  # type: ignore
 from setuptools import find_packages, setup
 
 README = (pathlib.Path(__file__).parent / "README.md").read_text()
-VERSION = "0.0.1"
+VERSION = "0.0.2"
 
 
 # Adopted from https://github.com/python/mypy/blob/master/setup.py
